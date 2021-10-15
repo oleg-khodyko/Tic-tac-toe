@@ -1,0 +1,12 @@
+.wrapper {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .board {
+
+  }
+
+  .info {
+    margin-left: 20px;
+  }

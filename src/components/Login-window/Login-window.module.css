@@ -1,0 +1,15 @@
+.wrapper {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bground {
+    opacity: 1;
+    z-index: -1;
+}
+
+img {
+    width: 100%;
+}
